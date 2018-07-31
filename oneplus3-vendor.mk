@@ -342,7 +342,15 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus3/proprietary/vendor/lib/libremosaic_daemon.so:system/vendor/lib/libremosaic_daemon.so \
     vendor/oneplus/oneplus3/proprietary/vendor/lib/libremosaiclib.so:system/vendor/lib/libremosaiclib.so \
     vendor/oneplus/oneplus3/proprietary/vendor/lib/libremosaic_tuning.so:system/vendor/lib/libremosaic_tuning.so \
-    vendor/oneplus/oneplus3/proprietary/vendor/lib/libSonyIMX298PdafLibrary.so:system/vendor/lib/libSonyIMX298PdafLibrary.so
+    vendor/oneplus/oneplus3/proprietary/vendor/lib/libSonyIMX298PdafLibrary.so:system/vendor/lib/libSonyIMX298PdafLibrary.so \
+    vendor/oneplus/oneplus3/proprietary/lepro/bin/sensors.qcom:system/lepro/bin/sensors.qcom \
+    vendor/oneplus/oneplus3/proprietary/lepro/etc/sensors/sensor_def_qcomdev.conf:system/lepro/etc/sensors/sensor_def_qcomdev.conf \
+    vendor/oneplus/oneplus3/proprietary/lepro/lib64/hw/sensors.msm8996.so:system/lepro/lib64/hw/sensors.msm8996.so \
+    vendor/oneplus/oneplus3/proprietary/lepro/lib64/libsensorservice.so:system/lepro/lib64/libsensorservice.so \
+    vendor/oneplus/oneplus3/proprietary/lepro/vendor/lib64/hw/activity_recognition.msm8996.so:system/lepro/vendor/lib64/hw/activity_recognition.msm8996.so \
+    vendor/oneplus/oneplus3/proprietary/lepro/vendor/lib64/libsensor1.so:system/lepro/vendor/lib64/libsensor1.so \
+    vendor/oneplus/oneplus3/proprietary/lepro/vendor/lib64/libsensor_reg.so:system/lepro/vendor/lib64/libsensor_reg.so \
+    vendor/oneplus/oneplus3/proprietary/lepro/vendor/lib64/sensors.ssc.so:system/lepro/vendor/lib64/sensors.ssc.so
 
 PRODUCT_PACKAGES += \
     qdcm_calib_data_samsung_s6e3fa3_1080p_cmd_mode_dsi_panel \
