@@ -344,6 +344,13 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus3/proprietary/vendor/lib/libremosaic_tuning.so:system/vendor/lib/libremosaic_tuning.so \
     vendor/oneplus/oneplus3/proprietary/vendor/lib/libSonyIMX298PdafLibrary.so:system/vendor/lib/libSonyIMX298PdafLibrary.so \
     vendor/oneplus/oneplus3/proprietary/lepro/bin/sensors.qcom:system/lepro/bin/sensors.qcom \
+    vendor/oneplus/oneplus3/proprietary/lepro/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:system/lepro/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb \
+    vendor/oneplus/oneplus3/proprietary/lepro/etc/acdbdata/MTP/MTP_General_cal.acdb:system/lepro/etc/acdbdata/MTP/MTP_General_cal.acdb \
+    vendor/oneplus/oneplus3/proprietary/lepro/etc/acdbdata/MTP/MTP_Global_cal.acdb:system/lepro/etc/acdbdata/MTP/MTP_Global_cal.acdb \
+    vendor/oneplus/oneplus3/proprietary/lepro/etc/acdbdata/MTP/MTP_Handset_cal.acdb:system/lepro/etc/acdbdata/MTP/MTP_Handset_cal.acdb \
+    vendor/oneplus/oneplus3/proprietary/lepro/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb:system/lepro/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb \
+    vendor/oneplus/oneplus3/proprietary/lepro/etc/acdbdata/MTP/MTP_Headset_cal.acdb:system/lepro/etc/acdbdata/MTP/MTP_Headset_cal.acdb \
+    vendor/oneplus/oneplus3/proprietary/lepro/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:system/lepro/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
     vendor/oneplus/oneplus3/proprietary/lepro/etc/sensors/sensor_def_qcomdev.conf:system/lepro/etc/sensors/sensor_def_qcomdev.conf \
     vendor/oneplus/oneplus3/proprietary/lepro/lib64/hw/sensors.msm8996.so:system/lepro/lib64/hw/sensors.msm8996.so \
     vendor/oneplus/oneplus3/proprietary/lepro/lib64/libsensorservice.so:system/lepro/lib64/libsensorservice.so \
