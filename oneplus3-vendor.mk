@@ -408,10 +408,18 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/oneplus3/proprietary/etc/firmware/a530_zap.b02:system/etc/firmware/a530_zap.b02 \
     vendor/oneplus/oneplus3/proprietary/etc/firmware/a530_zap.elf:system/etc/firmware/a530_zap.elf \
     vendor/oneplus/oneplus3/proprietary/etc/firmware/a530_zap.mdt:system/etc/firmware/a530_zap.mdt \
+    vendor/oneplus/oneplus3/proprietary/etc/firmware/a530_zap-noob.b00:system/etc/firmware/a530_zap-noob.b00 \
+    vendor/oneplus/oneplus3/proprietary/etc/firmware/a530_zap-noob.b01:system/etc/firmware/a530_zap-noob.b01 \
+    vendor/oneplus/oneplus3/proprietary/etc/firmware/a530_zap-noob.b02:system/etc/firmware/a530_zap-noob.b02 \
+    vendor/oneplus/oneplus3/proprietary/etc/firmware/a530_zap-noob.mdt:system/etc/firmware/a530_zap-noob.mdt \
     vendor/oneplus/oneplus3/proprietary/etc/firmware/a530_zap-pro.b00:system/etc/firmware/a530_zap-pro.b00 \
     vendor/oneplus/oneplus3/proprietary/etc/firmware/a530_zap-pro.b01:system/etc/firmware/a530_zap-pro.b01 \
     vendor/oneplus/oneplus3/proprietary/etc/firmware/a530_zap-pro.b02:system/etc/firmware/a530_zap-pro.b02 \
     vendor/oneplus/oneplus3/proprietary/etc/firmware/a530_zap-pro.mdt:system/etc/firmware/a530_zap-pro.mdt \
+    vendor/oneplus/oneplus3/proprietary/etc/firmware/a530_zap-722.b00:system/etc/firmware/a530_zap-722.b00 \
+    vendor/oneplus/oneplus3/proprietary/etc/firmware/a530_zap-722.b01:system/etc/firmware/a530_zap-722.b01 \
+    vendor/oneplus/oneplus3/proprietary/etc/firmware/a530_zap-722.b02:system/etc/firmware/a530_zap-722.b02 \
+    vendor/oneplus/oneplus3/proprietary/etc/firmware/a530_zap-722.mdt:system/etc/firmware/a530_zap-722.mdt \
     vendor/oneplus/oneplus3/proprietary/etc/firmware/nvm_tlv_1.3.bin:system/etc/firmware/nvm_tlv_1.3.bin \
     vendor/oneplus/oneplus3/proprietary/etc/firmware/nvm_tlv_2.1.bin:system/etc/firmware/nvm_tlv_2.1.bin \
     vendor/oneplus/oneplus3/proprietary/etc/firmware/nvm_tlv_3.0.bin:system/etc/firmware/nvm_tlv_3.0.bin \
